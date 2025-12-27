@@ -1,0 +1,52 @@
+header {
+    background: linear-gradient(to bottom right, rgb(0, 192, 0), rgb(1, 141, 25));
+
+}
+
+
+
+
+.menu {
+    display: flex;
+    justify-content: right;
+
+}
+
+.menu button {
+    margin: 1rem;
+    padding: 8px;
+}
+
+.menu a {
+    margin: 1rem;
+    font-family: Montserrat;
+    font-weight: 500;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.menu ul {
+    margin: 1.5rem;
+
+}
+
+.menu li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none
+}
+
+.knopka {
+    border-radius: 10px;
+    font-family: Montserrat;
+    font-weight: 700;
+}
+
+.main-content{
+    border: 2px solid;
+    margin: 5rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px black;
+}
